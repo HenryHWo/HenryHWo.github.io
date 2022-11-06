@@ -1,0 +1,23 @@
+/* css rules for lab_javascript.html*/
+
+#result {
+  /*#result means this css rule applies to anything with id=result*/
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: darkgrey;
+}
+
+#level {
+  font-family: Arial, Helvetica, sans-serif;
+  color: antiquewhite;
+}
+
+#goal {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: azure;
+}
+
+#userinput {
+  background-color: rgb(151, 144, 144);
+  color: bisque;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
